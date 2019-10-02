@@ -1,4 +1,4 @@
-/*created on September 30, 2019 by Jake Kasper, Jake Gushard, Eli Hajagos, Edward Potapoe
+/*created on September 30, 2019 by Jake Kasper, Jake Gushard, Eli Hajagos, Edward Potapov
 
  */
 package org.firstinspires.ftc.teamcode;
